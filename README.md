@@ -18,3 +18,7 @@ Experience the interactive UI demo that showcases the functionalities and the in
 - [Explore the UI Demo here](https://github.com/faizalrub-datastax/gradio-ui-demo/blob/main/Gradio_UI_Demo.ipynb)
 
 
+## 📝 Notes
+
+- The UI can be displayed either embedded in the notebook or launched as a separate tab in the browser
+
